@@ -21,3 +21,4 @@
 #### :open_file_folder: Инструкции
 
 - [Миграция с АРМ “Антей” на АРМ “Приток-А”](https://github.com/alex-wm/education/blob/master/Manual/antey-pritok.pdf)
+
