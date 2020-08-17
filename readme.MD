@@ -6,7 +6,7 @@
 
 :ledger: [Инструкции по работе с ПО и оборудованием](https://github.com/alex-wm/education/tree/master/Manual);
 
-:card_index: Ответы на вопросы “а как мне... ?”
+:card_index: [Ответы на вопросы “а как мне... ?”](https://github.com/alex-wm/education/blob/master/Howto).
 
 
 
@@ -22,3 +22,8 @@
 
 - [Миграция с АРМ “Антей” на АРМ “Приток-А”](https://github.com/alex-wm/education/blob/master/Manual/antey-pritok.pdf)
 
+---
+
+#### :open_file_folder: "А как мне... ?"
+
+- [Базовая настройка прибора КОП через WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
