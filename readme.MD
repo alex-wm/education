@@ -8,6 +8,7 @@
 
 :card_index: [Ответы на вопросы “а как мне... ?”](https://github.com/alex-wm/education/blob/master/Howto).
 
+:loudspeaker: [Различные презентации](https://github.com/alex-wm/education/blob/master/Presentation).
 
 
 ## А что у вас есть?
@@ -27,3 +28,9 @@
 #### :open_file_folder: "А как мне... ?"
 
 - [Базовая настройка прибора КОП через WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
+
+---
+
+#### :open_file_folder: "Презентации"
+
+- [Приток-Охрана-WEB: знакомство](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
