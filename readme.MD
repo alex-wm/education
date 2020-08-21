@@ -28,7 +28,7 @@
 #### :open_file_folder: "А как мне... ?"
 
 - [Базовая настройка прибора КОП через WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
-
+- [Добавление в систему прибора РКС-05](https://github.com/alex-wm/education/blob/master/Howto/RKS-05_add.pdf)
 ---
 
 #### :open_file_folder: "Презентации"
