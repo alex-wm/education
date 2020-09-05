@@ -22,6 +22,7 @@
 #### :open_file_folder: Инструкции
 
 - [Миграция с АРМ “Антей” на АРМ “Приток-А”](https://github.com/alex-wm/education/blob/master/Manual/antey-pritok.pdf)
+- [Типовые настройки приборов КОП](https://github.com/alex-wm/education/blob/master/Manual/kop_default_conf.pdf)
 
 ---
 
@@ -29,6 +30,7 @@
 
 - [Базовая настройка прибора КОП через WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
 - [Добавление в систему прибора РКС-05](https://github.com/alex-wm/education/blob/master/Howto/RKS-05_add.pdf)
+
 ---
 
 #### :open_file_folder: "Презентации"
