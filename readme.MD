@@ -16,7 +16,7 @@
 #### :open_file_folder: Материалы учебных курсов
 
 - [Работа с приборами серии “Приток-А-КОП” (базовый)](https://github.com/alex-wm/education/tree/master/Cource/Instaler/basic)
-- [Курс “Инженер” (базовый)](https://github.com/alex-wm/education/tree/master/Cource/Ingineer/basic)
+- [Курс “Инженер” (базовый)](https://github.com/alex-wm/education/tree/master/Cource/Ingineer/Basic)
 
 ---
 
@@ -37,3 +37,4 @@
 #### :open_file_folder: "Презентации"
 
 - [Приток-Охрана-WEB: знакомство](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
+
