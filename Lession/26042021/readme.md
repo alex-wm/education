@@ -7,10 +7,8 @@
 - Функции СКД в приборах КОП.
 
 ### Приложенные материалы
-Catalog-2021-Sokrat.pdf - Каталог оборудования ООО ОБ "СОКРАТ" 2021г.
+- *Catalog-2021-Sokrat.pdf* - Каталог оборудования ООО ОБ "СОКРАТ" 2021г.
+- *WindowsToLinux.pdf* - Инструкция по миграции АРМ с ОС Windows на ОС Linux.
+- *install_astra_linux.pdf* - Инструкция по установке АРМ "ПРИТОК" в ОС Linux.
+- *presentation-26042021.pdf* - Презентация к семинару.
 
-WindowsToLinux.pdf - Инструкция по миграции АРМ с ОС Windows на ОС Linux.
-
-install_astra_linux.pdf - Инструкция по установке АРМ "ПРИТОК" в ОС Linux.
-
-presentation-26042021.pdf - Презентация к семинару.
