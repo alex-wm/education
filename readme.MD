@@ -39,3 +39,9 @@
 
 - [Приток-Охрана-WEB: знакомство](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
 
+---
+
+#### :open_file_folder: "Материалы для семинаров"
+
+- [2021-04-26 Семинар для инженерного состава УВО по г.Москве](https://github.com/alex-wm/education/tree/master/Lession/26042021)
+
