@@ -11,3 +11,6 @@
 - Работа с Contact-ID совместимыми приборами.
 
 ### Приложенные материалы
+- [Каталог СОКРАТ 2021](https://github.com/alex-wm/education/blob/master/Lession/19072021/Catalog-2021-Sokrat.pdf)
+- [Техническое меню приборов КОП](https://github.com/alex-wm/education/blob/master/Lession/19072021/kop-techmenu-a4.pdf)
+- [Презентация](https://github.com/alex-wm/education/blob/master/Lession/19072021/presentation-19072021.pdf)
