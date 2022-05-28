@@ -7,3 +7,6 @@
 - Диагностическая утилита util_kop;
 - Обновление прошивок модулей расширения;
 - Работа с разделами.
+
+### Приложенные материалы
+- [Презентация](https://github.com/alex-wm/education/blob/master/Cource/Instaler/basic/pritok_installer_advanced.pdf)

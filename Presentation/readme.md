@@ -1,3 +1,3 @@
-### Приложенные материалы
-- [Презентация Приток-Охрана-WEB: знакомство](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
-- [Презентация КОП-02.6 / клавиатура ППКОП-04](https://github.com/alex-wm/education/blob/master/Presentation/kop_02_6_ppkop-04.pdf)
+### РџСЂРёР»РѕР¶РµРЅРЅС‹Рµ РјР°С‚РµСЂРёР°Р»С‹
+- [РџСЂРµР·РµРЅС‚Р°С†РёСЏ РџСЂРёС‚РѕРє-РћС…СЂР°РЅР°-WEB: Р·РЅР°РєРѕРјСЃС‚РІРѕ](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
+- [РџСЂРµР·РµРЅС‚Р°С†РёСЏ РљРћРџ-02.6 / РєР»Р°РІРёР°С‚СѓСЂР° РџРџРљРћРџ-04](https://github.com/alex-wm/education/blob/master/Presentation/kop_02_6_ppkop-04.pdf)
