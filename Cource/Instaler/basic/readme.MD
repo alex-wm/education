@@ -14,5 +14,6 @@
 - Контроль доступа.
 
 ### Приложенные материалы
+- [Презентация](https://github.com/alex-wm/education/blob/master/Cource/Instaler/basic/pritok_installer_basic.pdf)
 - [Настройки VISTA-101](https://github.com/alex-wm/education/blob/master/Cource/Instaler/basic/vista-101.pdf)
 - [Настройки VISTA-501](https://github.com/alex-wm/education/blob/master/Cource/Instaler/basic/vista-501.pdf)
