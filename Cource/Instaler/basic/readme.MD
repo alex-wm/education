@@ -12,3 +12,7 @@
 - РКС-01/-05 и Contact-ID совместимые приборы;
 - РКС-01/-05 возможные неисправности;
 - Контроль доступа.
+
+### Приложенные материалы
+- [Настройки VISTA-101](https://github.com/alex-wm/education/blob/master/Cource/Instaler/basic/vista-101.pdf)
+- [Настройки VISTA-501](https://github.com/alex-wm/education/blob/master/Cource/Instaler/basic/vista-501.pdf)
