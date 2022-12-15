@@ -10,6 +10,7 @@
 
 :loudspeaker: [Различные презентации](https://github.com/alex-wm/education/blob/master/Presentation).
 
+:floppy_disk: [Полезные утилиты](https://github.com/alex-wm/education/blob/master/Tools).
 
 ## А что у вас есть?
 
