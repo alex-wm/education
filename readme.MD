@@ -1,66 +1,66 @@
-## Что это такое
+## Р§С‚Рѕ СЌС‚Рѕ С‚Р°РєРѕРµ
 
-Это репозиторий документации связанной с [ИС ОПС “ПРИТОК-А”](https://www.sokrat.ru), где можно найти всякое разное-полезное:
+Р­С‚Рѕ СЂРµРїРѕР·РёС‚РѕСЂРёР№ РґРѕРєСѓРјРµРЅС‚Р°С†РёРё СЃРІСЏР·Р°РЅРЅРѕР№ СЃ [РРЎ РћРџРЎ вЂњРџР РРўРћРљ-РђвЂќ](https://www.sokrat.ru), РіРґРµ РјРѕР¶РЅРѕ РЅР°Р№С‚Рё РІСЃСЏРєРѕРµ СЂР°Р·РЅРѕРµ-РїРѕР»РµР·РЅРѕРµ:
 
-:man_student: [Материалы учебных курсов](https://github.com/alex-wm/education/tree/master/Cource)
+:man_student: [РњР°С‚РµСЂРёР°Р»С‹ СѓС‡РµР±РЅС‹С… РєСѓСЂСЃРѕРІ](https://github.com/alex-wm/education/tree/master/Cource)
 
-:card_index: [Ответы на вопросы “а как мне... ?”](https://github.com/alex-wm/education/blob/master/Howto)
+:card_index: [РћС‚РІРµС‚С‹ РЅР° РІРѕРїСЂРѕСЃС‹ вЂњР° РєР°Рє РјРЅРµ... ?вЂќ](https://github.com/alex-wm/education/blob/master/Howto)
 
-:loudspeaker: [Различные презентации](https://github.com/alex-wm/education/blob/master/Presentation)
+:loudspeaker: [Р Р°Р·Р»РёС‡РЅС‹Рµ РїСЂРµР·РµРЅС‚Р°С†РёРё](https://github.com/alex-wm/education/blob/master/Presentation)
 
-:ledger: [Инструкции по работе с ПО и оборудованием](https://github.com/alex-wm/education/tree/master/Manual)
+:ledger: [РРЅСЃС‚СЂСѓРєС†РёРё РїРѕ СЂР°Р±РѕС‚Рµ СЃ РџРћ Рё РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµРј](https://github.com/alex-wm/education/tree/master/Manual)
 
-:books: [Материалы для семинаров](https://github.com/alex-wm/education/tree/master/Lession)
+:books: [РњР°С‚РµСЂРёР°Р»С‹ РґР»СЏ СЃРµРјРёРЅР°СЂРѕРІ](https://github.com/alex-wm/education/tree/master/Lession)
 
-:floppy_disk: [Полезные утилиты](https://github.com/alex-wm/education/blob/master/Tools)
-
-
-
-## А что у вас есть?
+:floppy_disk: [РџРѕР»РµР·РЅС‹Рµ СѓС‚РёР»РёС‚С‹](https://github.com/alex-wm/education/blob/master/Tools)
 
 
-#### :man_student: Материалы учебных курсов
 
-- [Работа с приборами серии “Приток-А-КОП” (базовый)](https://github.com/alex-wm/education/tree/master/Cource/Instaler/basic)
-- [Работа с приборами серии “Приток-А-КОП” (расширенный)](https://github.com/alex-wm/education/tree/master/Cource/Instaler/advanced)
-- [Курс “Инженер” (базовый)](https://github.com/alex-wm/education/tree/master/Cource/Ingineer/Basic)
+## Рђ С‡С‚Рѕ Сѓ РІР°СЃ РµСЃС‚СЊ?
 
----
 
-#### :card_index: Ответы на вопросы “а как мне... ?”
+#### :man_student: РњР°С‚РµСЂРёР°Р»С‹ СѓС‡РµР±РЅС‹С… РєСѓСЂСЃРѕРІ
 
-- [Базовая настройка прибора КОП через WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
-- [Добавление в систему прибора РКС-05](https://github.com/alex-wm/education/blob/master/Howto/RKS-05_add.pdf)
+- [Р Р°Р±РѕС‚Р° СЃ РїСЂРёР±РѕСЂР°РјРё СЃРµСЂРёРё вЂњРџСЂРёС‚РѕРє-Рђ-РљРћРџвЂќ (Р±Р°Р·РѕРІС‹Р№)](https://github.com/alex-wm/education/tree/master/Cource/Instaler/basic)
+- [Р Р°Р±РѕС‚Р° СЃ РїСЂРёР±РѕСЂР°РјРё СЃРµСЂРёРё вЂњРџСЂРёС‚РѕРє-Рђ-РљРћРџвЂќ (СЂР°СЃС€РёСЂРµРЅРЅС‹Р№)](https://github.com/alex-wm/education/tree/master/Cource/Instaler/advanced)
+- [РљСѓСЂСЃ вЂњРРЅР¶РµРЅРµСЂвЂќ (Р±Р°Р·РѕРІС‹Р№)](https://github.com/alex-wm/education/tree/master/Cource/Ingineer/Basic)
 
 ---
 
-#### :loudspeaker: Различные презентации
+#### :card_index: РћС‚РІРµС‚С‹ РЅР° РІРѕРїСЂРѕСЃС‹ вЂњР° РєР°Рє РјРЅРµ... ?вЂќ
 
-- [Приток-Охрана-WEB: знакомство](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
-- [КОП-02.6 / клавиатура ППКОП-04](https://github.com/alex-wm/education/blob/master/Presentation/kop_02_6_ppkop-04.pdf)
-
----
-
-#### :ledger: Инструкции по работе с ПО и оборудованием
-
-- [Миграция с АРМ “Антей” на АРМ “Приток-А”](https://github.com/alex-wm/education/blob/master/Manual/antey-pritok.pdf)
-- [Типовые настройки приборов КОП](https://github.com/alex-wm/education/blob/master/Manual/kop_default_conf.pdf)
-- [Техническое меню приборов КОП](https://github.com/alex-wm/education/blob/master/Manual/kop_techmenu_a4.pdf)
-- [Ручные тесты приборов КОП](https://github.com/alex-wm/education/blob/master/Manual/kop_manual_test.pdf)
+- [Р‘Р°Р·РѕРІР°СЏ РЅР°СЃС‚СЂРѕР№РєР° РїСЂРёР±РѕСЂР° РљРћРџ С‡РµСЂРµР· WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
+- [Р”РѕР±Р°РІР»РµРЅРёРµ РІ СЃРёСЃС‚РµРјСѓ РїСЂРёР±РѕСЂР° Р РљРЎ-05](https://github.com/alex-wm/education/blob/master/Howto/RKS-05_add.pdf)
 
 ---
 
-#### :books: Материалы для семинаров
+#### :loudspeaker: Р Р°Р·Р»РёС‡РЅС‹Рµ РїСЂРµР·РµРЅС‚Р°С†РёРё
 
-- [2021-04-26 Семинар для инженерного состава УВО по г.Москве](https://github.com/alex-wm/education/tree/master/Lession/26042021)
-- [2021-07-19 Семинар для инженерного состава ФГУП "Охрана"](https://github.com/alex-wm/education/tree/master/Lession/19072021)
-- [2022-11-28 Семинар завод "Каустик" г.Волгоград](https://github.com/alex-wm/education/tree/master/Lession/28112022)
+- [РџСЂРёС‚РѕРє-РћС…СЂР°РЅР°-WEB: Р·РЅР°РєРѕРјСЃС‚РІРѕ](https://github.com/alex-wm/education/blob/master/Presentation/ohrana-web_znakomstvo.pdf)
+- [РљРћРџ-02.6 / РєР»Р°РІРёР°С‚СѓСЂР° РџРџРљРћРџ-04](https://github.com/alex-wm/education/blob/master/Presentation/kop_02_6_ppkop-04.pdf)
 
 ---
 
-#### :floppy_disk: Полезные утилиты
+#### :ledger: РРЅСЃС‚СЂСѓРєС†РёРё РїРѕ СЂР°Р±РѕС‚Рµ СЃ РџРћ Рё РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµРј
 
-- [Сервер подключений](https://github.com/alex-wm/education/tree/master/Tools/XDEV)
-- [Прошивки для приборов Приток-А-КОП](https://github.com/alex-wm/education/tree/master/Tools/firmware)
+- [РњРёРіСЂР°С†РёСЏ СЃ РђР Рњ вЂњРђРЅС‚РµР№вЂќ РЅР° РђР Рњ вЂњРџСЂРёС‚РѕРє-РђвЂќ](https://github.com/alex-wm/education/blob/master/Manual/antey-pritok.pdf)
+- [РўРёРїРѕРІС‹Рµ РЅР°СЃС‚СЂРѕР№РєРё РїСЂРёР±РѕСЂРѕРІ РљРћРџ](https://github.com/alex-wm/education/blob/master/Manual/kop_default_conf.pdf)
+- [РўРµС…РЅРёС‡РµСЃРєРѕРµ РјРµРЅСЋ РїСЂРёР±РѕСЂРѕРІ РљРћРџ](https://github.com/alex-wm/education/blob/master/Manual/kop_techmenu_a4.pdf)
+- [Р СѓС‡РЅС‹Рµ С‚РµСЃС‚С‹ РїСЂРёР±РѕСЂРѕРІ РљРћРџ](https://github.com/alex-wm/education/blob/master/Manual/kop_manual_test.pdf)
+
+---
+
+#### :books: РњР°С‚РµСЂРёР°Р»С‹ РґР»СЏ СЃРµРјРёРЅР°СЂРѕРІ
+
+- [2021-04-26 РЎРµРјРёРЅР°СЂ РґР»СЏ РёРЅР¶РµРЅРµСЂРЅРѕРіРѕ СЃРѕСЃС‚Р°РІР° РЈР’Рћ РїРѕ Рі.РњРѕСЃРєРІРµ](https://github.com/alex-wm/education/tree/master/Lession/26042021)
+- [2021-07-19 РЎРµРјРёРЅР°СЂ РґР»СЏ РёРЅР¶РµРЅРµСЂРЅРѕРіРѕ СЃРѕСЃС‚Р°РІР° Р¤Р“РЈРџ "РћС…СЂР°РЅР°"](https://github.com/alex-wm/education/tree/master/Lession/19072021)
+- [2022-11-28 РЎРµРјРёРЅР°СЂ Р·Р°РІРѕРґ "РљР°СѓСЃС‚РёРє" Рі.Р’РѕР»РіРѕРіСЂР°Рґ](https://github.com/alex-wm/education/tree/master/Lession/28112022)
+
+---
+
+#### :floppy_disk: РџРѕР»РµР·РЅС‹Рµ СѓС‚РёР»РёС‚С‹
+
+- [РЎРµСЂРІРµСЂ РїРѕРґРєР»СЋС‡РµРЅРёР№](https://github.com/alex-wm/education/tree/master/Tools/XDEV)
+- [РџСЂРѕС€РёРІРєРё РґР»СЏ РїСЂРёР±РѕСЂРѕРІ РџСЂРёС‚РѕРє-Рђ-РљРћРџ](https://github.com/alex-wm/education/tree/master/Tools/firmware)
 
 ---
