@@ -31,6 +31,7 @@
 
 - [Базовая настройка прибора КОП через WI-FI](https://github.com/alex-wm/education/blob/master/Howto/kop_wifi_base_conf.pdf)
 - [Добавление в систему прибора РКС-05](https://github.com/alex-wm/education/blob/master/Howto/RKS-05_add.pdf)
+- [Проверка тревожной кнопки](https://github.com/alex-wm/education/blob/master/Howto/check_alarm_button.pdf)
 
 ---
 
